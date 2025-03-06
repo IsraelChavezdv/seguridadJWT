@@ -1,6 +1,6 @@
 # Seguridad JWT (Jason Web Token)
 
-API Desarrollada con Spring Boot y Mysql
+API Desarrollada con Spring Boot y MySQL
 
 ## Tecnologias utilizadas
 
