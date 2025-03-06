@@ -2,7 +2,7 @@
 
 API Desarrollada con Spring Boot y MySQL
 
-## Tecnologias utilizadas
+## Tecnologías utilizadas
 
 - Java 17
 - Maven 4.0.0
