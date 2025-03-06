@@ -23,7 +23,7 @@ API Desarrollada con Spring Boot y MySQL
 
 3. **Puerto 8080, MYSQL puerto 3606**
 
-4. **Correr la APP e ir Postman. Primero registrar un usuario:**
+4. **Correr la APP e ir a Postman. Primero registrar un usuario:**
     ```bash
    (POST) http://localhost:8080/auth/signup (Registrar Usuario)
    Requiere BODY: 
